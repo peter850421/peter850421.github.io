@@ -1226,3 +1226,10 @@ section {
   font-size: 14px;
   color: #728394;
 }
+<style>
+  .school-emblem {
+    width: 30px; /* Adjust the width to your desired size */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Add some spacing between the emblem and the title */
+  }
+</style>
